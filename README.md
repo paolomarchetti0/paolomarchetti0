@@ -22,14 +22,24 @@ Thesis: *Comparative Analysis of Clinical-Biological Data in an MRI-based Multim
 
 ## 🚀 Featured projects
 
-### 🐋 Sperm Whale Dialect Modeling
-NLP / machine learning project focused on modeling sperm whale dialects.
+### 🐋 [Sperm Whale Dialect Modeling](https://github.com/paolomarchetti0/sperm-whale-dialect-modeling)
+
+Machine learning / NLP-inspired project focused on modeling sperm whale dialects.
+
+### 🎙️ [Audio Deepfake Detection](https://github.com/lorezvn/audio-deepfake-detection)
+
+Collaborative deep learning project for detecting deepfake audio.
+
+### ⚔️ [Pokebattle Prediction](https://github.com/lorezvn/pokebattle-prediction)
+
+Collaborative classification project that predicts the winner of a Pokémon battle.
 
 ### 🧬 Multimodal Alzheimer's Classification
 Bachelor thesis project involving MRI data and clinical-biological features for Alzheimer's disease classification.
 
-### 🎮 PokeGAN
-Collaborative/forked project based on a Generative Adversarial Network for generating new Pokémon-like images.
+### 🎮 [PokeGAN](https://github.com/paolomarchetti0/PokeGAN)
+
+Forked / collaborative GAN project for generating Pokémon-like images.
 
 ## 📫 Contacts
 
