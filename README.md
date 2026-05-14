@@ -20,6 +20,20 @@ Sapienza University of Rome
 Sapienza University of Rome  
 Thesis: *Comparative Analysis of Clinical-Biological Data in an MRI-based Multimodal Model for Alzheimer's Classification*
 
+## 🎓 Thesis
+
+### 🧠 Multimodal Alzheimer's Classification
+
+For my BSc thesis in Computer Science at Sapienza University of Rome, I worked on a multimodal deep learning model for Alzheimer's disease classification.
+
+The project explored the integration of structural MRI data with different types of clinical-biological information, including CSF biomarkers, genetic features, and cognitive scores, comparing their impact on AD/MCI/CN classification tasks.
+
+The work involved:
+- 3D CNNs for MRI-based feature extraction
+- MLP branches for tabular clinical-biological data
+- Late fusion of multimodal representations
+- Evaluation across different binary classification tasks
+
 ## 🚀 Featured projects
 
 ### 🐋 [Sperm Whale Dialect Modeling](https://github.com/paolomarchetti0/sperm-whale-dialect-modeling)
