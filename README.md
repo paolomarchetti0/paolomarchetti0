@@ -31,17 +31,6 @@ Bachelor thesis project involving MRI data and clinical-biological features for 
 ### 🎮 PokeGAN
 Collaborative/forked project based on a Generative Adversarial Network for generating new Pokémon-like images.
 
-## 🤝 Collaborations
-
-I have also contributed to repositories owned by other developers or organizations.  
-When relevant, I include them here with a short description of my contribution.
-
-## 🛠️ Tech stack
-
-Python · PyTorch · Machine Learning · Deep Learning · NLP · Git · GitHub
-
 ## 📫 Contacts
 
 - GitHub: [@paolomarchetti0](https://github.com/paolomarchetti0)
-- LinkedIn: add-your-link
-- Email: add-your-email
