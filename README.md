@@ -9,7 +9,6 @@ I hold a BSc in Computer Science from Sapienza University of Rome, where I worke
 - Natural Language Processing
 - Machine Learning & Deep Learning
 - Multimodal AI
-- Biomedical AI
 - Scientific data analysis
 
 ## 🎓 Education
